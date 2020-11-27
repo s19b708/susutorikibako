@@ -13,5 +13,7 @@
         android:layout_height="wrap_content"
         android:text="Back"
         tools:layout_editor_absoluteX="159dp"
-        tools:layout_editor_absoluteY="632dp" />
+        tools:layout_editor_absoluteY="632dp"
+        tools:ignore="HardcodedText,MissingConstraints" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
