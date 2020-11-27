@@ -5,8 +5,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+
 public class SecondActivity extends Activity {
-    int count = 1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
